@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Empty page
+title: Home
 sections:
   - type: HeroSection
     title: An Empty Page
